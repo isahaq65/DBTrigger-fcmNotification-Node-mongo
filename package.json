@@ -1,0 +1,28 @@
+{
+  "name": "trigger-notification",
+  "version": "1.0.0",
+  "description": "\"express app for notification using mongodd-changestream, firebase,nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "notification"
+  },
+  "keywords": [
+    "notification",
+    "mongodb->changestream",
+    "firebase",
+    "nodejs"
+  ],
+  "author": "Isahaq-Ali",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.0",
+    "firebase-admin": "^12.6.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0"
+  }
+}
