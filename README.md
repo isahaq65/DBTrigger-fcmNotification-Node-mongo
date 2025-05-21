@@ -1,4 +1,4 @@
-# FCM Notification with MongoDB Change Stream
+# Decouple FCM Notification Service using MongoDB Change Stream
 
 This project demonstrates how to send Firebase Cloud Messaging (FCM) notifications using a Node.js server. It leverages MongoDB change streams to listen for specific changes in the database and triggers notifications accordingly.
 
